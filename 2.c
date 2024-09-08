@@ -65,7 +65,7 @@ int avg=0;
     avg=sum/count;
 
     printf("The sum is : %d",sum);
-    printf("The avg is : %d",avg);
+    printf(" The avg is : %d",avg);
 
 
   return 0;
